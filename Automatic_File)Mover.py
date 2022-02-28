@@ -1,4 +1,3 @@
-# imports all dependent modules
 import os
 import shutil
 import json
